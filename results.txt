@@ -1,0 +1,6 @@
+Tekst po odszyfrowaniu:
+ Deep Though znalazł odpowiedź i brzmi ona: 42
+
+Faktoryzacja liczby 101080891: (10009, 10099)
+
+Klucz publiczny: (49, 101080891)

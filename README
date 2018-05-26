@@ -1,0 +1,6 @@
+Rozwiązanie poniższego zadania / solution of following task:
+
+The text (data.txt) has been encrypted with your public key. It is known that all letters were encoded separately (first converted to UTF-8 codes, then the numbers were raised to some power modulo 101080891 and the numbers were written in hexadecimal format and joined into a single string, separating the individual strings with a colon. Your private key is (2062465, 101080891).
+Decode this text.
+Find the factorization of the number 101080891 into primes.
+What is your public key?
