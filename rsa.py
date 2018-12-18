@@ -33,6 +33,7 @@ def extended_gcd(a, b):
         old_t, t = t, old_t - q*t
     return (a, old_s, old_t)
 
+
 ###
 print("Tekst po odszyfrowaniu:")
 
